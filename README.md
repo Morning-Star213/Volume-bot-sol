@@ -8,6 +8,11 @@ A high-performance trading bot that interacts with the Pump.fun AMM swap and Ray
 
 Tx: https://solscan.io/tx/4ZXTuCu2JKR4tb7o6XmNt8Mm9ELPEjnzqmfy75P8AqaFVAYK3gEHieuxgPqCQuxKeWWt1cWocmKRSjyh6WjXGo6o
 
+
+## 💻 Video
+
+https://github.com/user-attachments/assets/562d597f-0961-47e0-802e-ae74341f1fea
+
 ## 📌 Features
 
 - ✅ Create multiple wallets and airdrop SOL automatically 
