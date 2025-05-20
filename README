@@ -1,0 +1,21 @@
+NOTE: The wallet you enter in config pays for JITO tips and sends all the SOL/WSOL.
+      If the transactions don't land, use more tip!
+
+1.
+    a) Run 'npm i'
+
+    b) Edit .env with wallet private key and rpc.
+
+    c) node main.js
+
+2. Run all steps in order.
+
+    a) Ensure you have enough SOL in the config wallet.
+
+    b) Simply do step 1 to start the buying process
+
+    c) Once your bundles are complete and you would like to reclaim all your SOL run step 2 or step 3.
+
+
+solana-scripts.com
+discord.gg/solana-scripts
