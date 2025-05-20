@@ -4,7 +4,7 @@ A high-performance trading bot that interacts with the Pump.fun AMM swap and Ray
 
 ## 🎫 Contact
 
-[Telegram](https://t.me/m4rcu5sol)
+[Telegram](https://t.me/stevensprg)
 
 Tx: https://solscan.io/tx/4ZXTuCu2JKR4tb7o6XmNt8Mm9ELPEjnzqmfy75P8AqaFVAYK3gEHieuxgPqCQuxKeWWt1cWocmKRSjyh6WjXGo6o
 
