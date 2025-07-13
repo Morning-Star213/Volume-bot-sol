@@ -1,4 +1,4 @@
-# 🔄 Solana PumpSwap Raydium Meteora Volume Bot
+# Solana PumpSwap Raydium Meteora Volume Bot
 
 A high-performance Solana trading Bot that interacts with Solana DEX platforms the PumpSwap and Raydium CLMM & CPMM platform for volume boost. This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions on the Pump.fun AMM swap & Raydium platform and withdraw remain fees and close token accounts simultaneously 
 
@@ -8,14 +8,6 @@ A high-performance Solana trading Bot that interacts with Solana DEX platforms t
 - **Meteora DLMM:** https://explorer.jito.wtf/bundle/558eb9f86665cd3362f0dde7a847452370d0a5c100d6cf1276bc7469ee9728b0
 
 - **Meteora Dynmic AMM:** https://explorer.jito.wtf/bundle/44b1e24a0fb2d2038582deef52a6c5834e9118835f07cc30d76453070e7cfaee
-
-## 💻 Video
-
-
-
-https://github.com/user-attachments/assets/66bb9934-1b4a-4ded-9aa6-f4a8beb06986
-
-
 
 ## 📌 Features
 
@@ -31,7 +23,7 @@ https://github.com/user-attachments/assets/66bb9934-1b4a-4ded-9aa6-f4a8beb06986
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/m4rcu5o/Burn-ATA-Solana.git
+git clone
 cd Burn-ATA-Solana
 ```
 ### 2. Clone the Repo
@@ -72,9 +64,3 @@ yarn dev
 "dev": "ts-node-dev src/index.ts",
 "build": "tsc",
 ```
-
-## 🎫 Contact
-
-[Telegram](https://t.me/pup5ol)
-
-### Please don't forget give ✨Star✨ and 🎞Fork🎞. 😊
